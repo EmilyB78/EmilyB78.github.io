@@ -878,7 +878,7 @@ section .container {
 .portfolio .portfolio-wrap .portfolio-info h4 {
   font-size: 20px;
   color: #fff;
-  font-weight: 600;
+  font-weight: 600; 
 }
 
 .portfolio .portfolio-wrap .portfolio-info p {
